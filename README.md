@@ -1,4 +1,5 @@
 In den Ordnern sind Folgende Inhalte zum Prodekt Graina Storage System.
+
 .
 
 Analyse:           Marktanalyse zum Bestehenden Unternehmen und zukünftig der Erweiterung der Zielgruppen, Personas zu bestehender Zielgruppe sowie der Erweiterung
